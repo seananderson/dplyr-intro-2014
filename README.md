@@ -1,7 +1,7 @@
 This folder contains notes and exercises about the dplyr R package and the pipe
 function from the magrittr R package for a stats-beerz workshop on 2014-09-16.
 
-The code was written by Sean Anderson, sean@seananderson.ca
+The code was written by Sean Anderson, `sean "at" seananderson.ca`
 
 The example data are from:
 Kate E. Jones, et al. PanTHERIA: a species-level database of life history,
